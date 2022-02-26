@@ -1,0 +1,32 @@
+.mapvn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.title {
+  background-color: black;
+  color: red;
+}
+.btn {
+  font-size: 20px;
+  color: aliceblue;
+  margin-top: 20px;
+  text-decoration: none;
+  padding: 15px;
+  background-color: #207595;
+  border: 2px solid grey;
+  border-radius: 20px;
+}
+.cssmap {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
+}
+
+.cssmap img {
+  width: 1022px;
+  height: 650px;
+}
